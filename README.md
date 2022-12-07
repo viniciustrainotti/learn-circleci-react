@@ -1,4 +1,4 @@
-# Learn Circle CI with React Project
+# Learn CircleCI with React Project
 
 This repository tends to present an applied example to Pipeline CI/CD with Github Actions.
 
